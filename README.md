@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, NLP, RAG**
 
-- 📫 How to reach me **nuthetidinesh@gmail.com**
+- 📫 Reach me **nuthetidinesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
