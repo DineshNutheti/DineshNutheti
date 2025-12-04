@@ -2,7 +2,7 @@
 <h3 align="center">An AI Engineer from Bengaluru, India</h3>
 
 # 💫 About Me:
-I am working on building RAG-based applications, developing Semantic Search systems for structured + unstructured data, Experimenting with industrial-grade computer vision models.<br>I am Looking for Collaboration On Machine Learning & Deep Learning, Retrieval-Augmented Generation (RAG), Computer Vision (Segmentation, Detection, Depth Estimation), NLP + LLM application development, MLOps, Azure Cloud, and Compute-efficient AI systems, Open-source or private industry-centric AI projects.<br>Ask me about Transformers, Computer Vision, Predictive Maintenance / OEE / Industrial AI systems, LLM-integrated dashboards & automated reporting, End-to-end ML pipelines, PyTorch, TensorFlow, Docker, FastAPI, Azure.<br>
+I am an AI Engineer currently working on building RAG-based applications, developing Semantic Search systems for structured + unstructured data, Experimenting with industrial-grade computer vision models.<br>I am Looking for Collaboration On Machine Learning & Deep Learning, Retrieval-Augmented Generation (RAG), Computer Vision (Segmentation, Detection, Depth Estimation), NLP + LLM application development, MLOps, Azure Cloud, and Compute-efficient AI systems, Open-source or private industry-centric AI projects.<br>Ask me about Transformers, Computer Vision, Predictive Maintenance / OEE / Industrial AI systems, LLM-integrated dashboards & automated reporting, End-to-end ML pipelines, PyTorch, TensorFlow, Docker, FastAPI, Azure.<br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshnutheti" alt="dineshnutheti" /></a> </p>
